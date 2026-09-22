@@ -1,4 +1,4 @@
-<!-- Basics of terminal. section-2
+Basics of terminal. section-2
 
 what is terminal?
 terminal is a app ,like browser,
@@ -46,4 +46,4 @@ without saving shift+q!
 what are prompt in terminal??
 the whole path is called prompt of the termial example
 C:\Users\shaik\Desktop\The procodrr node js\davoodbhai--ps
- -->
+
