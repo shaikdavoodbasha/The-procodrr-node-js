@@ -90,3 +90,42 @@ concerenccy and parallelism.
 
 node js is multithreaded --------------
 
+
+absolute Path and relative path 
+absolute path : 
+
+
+~/ - it will represents the home folder
+
+
+what are the executable files and how to create executable
+
+there are two types
+script executable files and binary executable files
+script file
+
+what are bash files and bat files are same bat for windows and bash forl unix.
+
+what are binary executable files 
+no plain text will be there inside the file it only have binary data 
+
+
+file permissions in windows
+property ->security->group of user names ->edit
+
+
+how commands execute in cmd ?
+
+Alias:Bash first checks if the command matches any defined aliases
+
+functions:Next it checks if the command matches any defined shell functions
+
+build in commands:then,bash checks if the commands is build in shell commands(like cd,echo,pwd,etc..)
+
+hashtable:bash checks its has table of previously looked up executable to quickly locate executables.
+
+executable files : finally its seachers through the directories listed in the path environment variable ,in the order they appear to find an executable file matching the command name.
+
+
+
+
